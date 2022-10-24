@@ -19,12 +19,12 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 
-  ## Description
+  ### Description
 
   ${data.description}
 
   
-  ## Installation
+  ### Installation
 
   To install necessary dependencies, input: 
   ${data.instalation}
@@ -32,11 +32,11 @@ function generateMarkdown(data) {
 
 
 
-  ## Credits
+  ### Credits
 
   ${data.credits}
 
-  ## Questions
+  ### Questions
 
   If you have any questions, my email is ${data.email}. My GitHub is [${data.github}](https://github.com/${data.github})
 `;

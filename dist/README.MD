@@ -1,23 +1,23 @@
-# coolness
+# README-GEN
 
 
-  ## Description
+  ### Description
 
-  its super cool
+  its super cool yo
 
   
-  ## Installation
+  ### Installation
 
   To install necessary dependencies, input: 
-  npm
+  npm i
   
 
 
 
-  ## Credits
+  ### Credits
 
-  chris
+  jus me
 
-  ## Questions
+  ### Questions
 
-  If you have any questions, my email is chrisbond66@gmail.com. My GitHub is [chrisbond66](https://github.com/chrisbond66)
+  If you have any questions, my email is chrisbond66@gmail.com. My GitHub is [Chrisbond66](https://github.com/Chrisbond66)
