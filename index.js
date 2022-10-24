@@ -149,7 +149,7 @@ function init() {
     .then((data) => {
       console.log("Generating README");
 
-      writeToFile("./dist/readme", generateMarkdown(data));
+      writeToFile("./dist/README.md", generateMarkdown(data));
     });
 }
 

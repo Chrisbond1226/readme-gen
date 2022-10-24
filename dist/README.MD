@@ -3,7 +3,7 @@
 
   ## Description
 
-  it is super cool
+  its super cool
 
   
   ## Installation
